@@ -54,9 +54,4 @@
  */
  require_once(APP_PATH . DS . 'kickstart.php');
  
- 
- fsd
- fsd
- dgh
- 
- hfgh
+ echo 'This is the new php FILE for Git.';
